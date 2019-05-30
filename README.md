@@ -21,6 +21,6 @@ Cifrado: 1d.d
 - Pip instalado na máquina
 
 ## Executando 
-> Foi utilziado o virtualenv para execução do código
+> Foi utilizado o virtualenv para execução do código
 
 `pip install -r requirements.txt`
